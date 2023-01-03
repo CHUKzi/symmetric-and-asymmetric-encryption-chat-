@@ -1,6 +1,5 @@
 ====================================================
 
-BATCH		: GAHDSE212F
 PROJECT		: Software Security Course Work - 01
 SYSTEM NAME : TUTU.COM
 VERSION		: v1.0
